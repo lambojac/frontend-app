@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Three Cards App',
-  description: 'A simple Next.js app with three cards',
+  description: 'A simple Next.js app with three pla cards',
 }
 
 export default function RootLayout({
